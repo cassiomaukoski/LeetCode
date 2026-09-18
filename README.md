@@ -61,4 +61,4 @@ docs: adiciona README base
 
 | # | Título | Dificuldade | Solução | Teste | Complexidade |
 |---|--------|-------------|---------|-------|--------------|
-
+| 66 | Plus One | Easy | [Solution](src/main/java/com/cassiomaukoski/question66_plus_one/Solution.java) | [SolutionTest](src/test/java/com/cassiomaukoski/question66_plus_one/SolutionTest.java) | Melhor caso: O(1)<br/>Pior Caso: O(n) |
